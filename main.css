@@ -1,0 +1,2144 @@
+
+
+body{
+    background-color: #3d1c0f
+}
+
+@media all and (max-width: 480px)  {
+    body{
+      
+   
+   background-color: rgb(255, 255, 255);
+   } 
+   
+
+
+   .ban1{
+   background-image: url("assets/img/HeadlineImage_1.jpg");
+   position: absolute;
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 200px;
+   left:0px;
+   top: 0px;
+   
+   }
+
+   h1{
+    font-size: 1.1rem;
+    font-family: bold;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 12px;
+
+
+   }
+
+   #redh1{
+       color: red;
+       text-align: center;
+       max-width: 100%;
+       font-size: 1.8rem;
+       font-family: bold;
+       background-color: rgba(255, 255, 255, 0.685);
+       border-radius: 3px;
+   }
+
+   #p2{
+       color: aliceblue;
+       font-size: 0.9rem;
+       max-width: 95%;
+      text-align:  center;
+      padding-left:12px; 
+
+      }
+
+      h2{
+          position: relative;
+          top: 220px;
+          font-size: 0.02rem;
+          max-width: 90%;
+          padding-left: 25px;
+      }
+
+      .desserts{
+          position: relative;
+          background: rgb(131,61,16);
+background: linear-gradient(90deg, rgba(131,61,16,0.4472163865546218) 0%, rgba(214,134,44,0.9710259103641457) 45%, rgba(204,174,26,0.23993347338935578) 100%);
+        top: 220px;
+        height: 150px;
+      }
+
+
+    ul{
+        position: relative;
+        top: 10px;
+        height: 150px;
+        max-width: 100%;
+        list-style-type: none;
+        padding:0;
+       
+
+    }
+      
+   
+   .tasty{
+       width: 25%;
+       margin: 15px;
+       float: left;
+
+       
+       
+       
+   }
+   .pictags{
+       
+    position: relative;
+    top: -60px;
+    left: 20px;
+    font-size: 0.8rem;
+    height: 150px;
+    max-width: 100%;
+    list-style-type: none;
+    padding:0;
+   
+
+   }
+
+   #tag{
+      font-family: bold;
+    color: rgb(65, 26, 1);
+    width: 25%;
+    margin: 15px;
+    float: left;
+   }
+
+   #p1{
+       
+       color: rgb(0, 0, 0);
+       position: relative;
+       top: 170px;
+       max-width: 80%;
+       height: 20px;
+       font-family: bold;
+       font-size: 0.75rem;
+       left: 25px;
+       text-align: left;
+       margin: 0;
+       
+       
+   }
+   #p23{
+       
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 250px;
+    text-align: left;
+    max-width: 80% ;
+    height: 20px;
+    font-family: bold;
+    font-size: 0.75rem;
+    left: 25px;
+    margin: 0;
+   }
+
+
+   p span{
+       padding-top: 15px;
+       display: block;
+   }
+   
+   #enz{
+       position: relative;
+       top: 340px;
+       color: rgb(1, 2, 2);
+       font-size: 0.1rem;
+       margin: 15px;
+       left: 25px;
+   }
+   #enz li:before {
+    content: '✓';
+  }
+  #p4{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 240px;
+    text-align: left;
+    max-width: 80% ;
+    height: 20px;
+    font-family: bold;
+    font-size: 0.75rem;
+    left: 25px;
+    margin: 0;
+  }
+
+
+  .paralax{
+      position: relative;
+      top: 255px;
+      background-image: url("assets/img/ParallaxOne_5.jpg");
+      background-size:cover;
+      height: 120px;
+      
+  }
+  h3{
+      position: relative;
+      font-family: bold;
+      color: white;
+      font-size: 0.65rem;
+      text-align: left;
+      padding-left: 8px;
+      top: 30px;
+
+  }
+  h3 span{
+      font-family: sans-serif;
+    padding-top: 10px;
+    display: block;
+    font-size: 0.07rem;
+}
+.bar {
+    position: relative;
+    background-color: #3d1c0f;
+    top: 280px;
+    padding-right: 60px;
+    width: 90%;
+    height: 110px;
+}
+h4{
+    color: rgb(255, 255, 255);
+    padding-top: 5px;
+    font-size: 0.001rem;
+    padding-left: 10px;
+    width:55%;
+    float: right;
+    
+    
+
+}
+h4 span{
+    padding-top: 10px;
+    display: block;
+
+}
+
+#docimg {
+   top: 200px;
+    width: 45%;
+    
+    padding: 0px;
+}
+.skep{
+    position: relative;
+    top: 300px;
+
+}
+
+#br{
+    text-align: left;
+    font-size: 0.3rem;
+    margin: 0 auto;
+    width: 75%;
+    padding-bottom: 5px;
+
+}
+
+#rd{
+    text-align: left;
+    font-size: 0.3rem;
+    margin: 0 auto;
+    width: 75%;
+    padding-bottom: 5px;
+
+}
+
+.gears{
+    background-image: url("assets/img/Gears_15.jpg");
+    position: relative;
+    top: 310px;
+    height: 230px;
+    background-size:cover;
+
+
+}
+
+#yell{
+    padding-top: 8px;
+    text-align: left;
+    color: yellow;
+    margin: 0 auto;
+    font-size: 0.5rem;
+    width:66%;
+
+
+}
+
+
+
+#yell span {
+    color: aliceblue;
+    font-size: 0.1rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+
+#secp{
+    color: aliceblue;
+    font-size: 0.1rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    margin: 0 auto;
+    width:66%;
+
+
+}
+
+#threep {
+    color: aliceblue;
+    font-size: 0.01rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    margin: 0 auto;
+    width:66%;
+
+}
+
+
+.findiv{
+   
+    position: relative;
+    top:320px;
+    margin: 0 auto;
+}
+#gatee{
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+.lastcontainer1{
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+    
+   
+}
+.lastcontainer2{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgba(248, 248, 248, 0.521);
+}
+.gln{
+    width: 66%;
+  
+}
+
+.fin{
+    position: relative;
+    top:55px;
+    background-image: url("assets/img/TransparentArrowBkgd.jpg");
+    z-index:-1;
+    height:1500px;
+    
+    background-size:cover;
+    
+   
+
+}
+.findiv2{
+    position: relative;
+    width: 66%;
+    top: 264px;
+    background-color: rgba(248, 248, 248, 0.541);
+
+
+    margin: 0 auto;
+}
+
+.arrow{
+    position: relative;
+    top:248px;
+    margin: 0 auto;
+    width: 100%;
+    left: 68px;
+    opacity: 0.5;
+
+
+}
+.buttonfin{
+position: relative;
+top: 300px;
+border-style: solid;
+  border-color: red;
+
+}
+.btn-warning{
+    color: white;
+    position: relative;
+    margin: 0 auto;
+    left: 100px;
+    border-style: solid;
+  border-color: rgb(255, 255, 255);
+
+
+ 
+    margin-right:10px;
+    width: 44%;
+    height: 55px;
+}
+
+.btn span{
+    width:20%;
+    font-size: 0.06rem;
+}
+
+.grenlab{
+    color: green;
+    text-decoration-line: underline;
+    width:45%;
+    font-size: 0.5rem;
+    text-align: center;
+    margin:  auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+   
+
+@media all and (min-width: 480px) and (max-width: 768px){
+
+    body{
+        background-color:rgb(150, 48, 48) ;
+        z-index: -3;
+       
+        
+    }
+
+    .innerbg{
+        position: relative;
+        background-color:white ;
+        z-index: -2;
+        margin: 0 auto;
+        width: 66%;
+  
+   } 
+   
+
+
+   .ban1{
+   background-image: url("assets/img/HeadlineImage_1.jpg");
+   position: absolute;
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 200px;
+   left:0px;
+   top: 0px;
+   
+   }
+
+   h1{
+    font-size: 1.1rem;
+    font-family: bold;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 12px;
+    text-align: center;
+    margin: auto;
+    left: 20px;
+
+
+   }
+
+   #redh1{
+       color: red;
+       text-align: center;
+       max-width: 100%;
+       font-size: 1.8rem;
+       font-family: bold;
+       background-color: rgba(255, 255, 255, 0.685);
+       border-radius: 3px;
+   }
+
+   #p2{
+       color: aliceblue;
+       font-size: 0.9rem;
+       max-width: 95%;
+      text-align:  center;
+      padding-left:12px; 
+
+      }
+
+      h2{
+          position: relative;
+          top: 220px;
+          font-size: 0.02rem;
+          max-width: 90%;
+          padding-left: 25px;
+      }
+
+      .desserts{
+          position: relative;
+          background: rgb(131,61,16);
+background: linear-gradient(90deg, rgba(131,61,16,0.4472163865546218) 0%, rgba(214,134,44,0.9710259103641457) 45%, rgba(204,174,26,0.23993347338935578) 100%);
+        top: 220px;
+        height: 150px;
+      }
+
+
+    ul{
+        position: relative;
+        top: -6px;
+        height: 150px;
+        max-width: 100%;
+        list-style-type: none;
+        padding:0;
+       
+
+    }
+      
+   
+   .tasty{
+       width: 25%;
+       margin: 15px;
+       float: left;
+
+       
+       
+       
+   }
+   .pictags{
+       
+    position: relative;
+    top: -60px;
+    left: 20px;
+    font-size: 0.8rem;
+    height: 150px;
+    max-width: 100%;
+    list-style-type: none;
+    padding:0;
+   
+
+   }
+
+   #tag{
+      font-family: bold;
+    color: rgb(65, 26, 1);
+    width: 25%;
+    margin: 15px;
+    float: left;
+   }
+
+   #p1{
+       
+       color: rgb(0, 0, 0);
+       position: relative;
+       top: 170px;
+       max-width: 80%;
+       height: 20px;
+       font-family: bold;
+       font-size: 0.75rem;
+       left: 25px;
+       text-align: left;
+       margin: 0;
+       
+       
+   }
+   #p23{
+       
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 250px;
+    text-align: left;
+    max-width: 80% ;
+    height: 20px;
+    font-family: bold;
+    font-size: 0.75rem;
+    left: 25px;
+    margin: 0;
+   }
+
+
+   p span{
+       padding-top: 15px;
+       display: block;
+   }
+   
+   #enz{
+       position: relative;
+       top: 340px;
+       color: rgb(1, 2, 2);
+       font-size: 0.1rem;
+       margin: 15px;
+       left: 25px;
+   }
+   #enz li:before {
+    content: '✓';
+  }
+  #p4{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 240px;
+    text-align: left;
+    max-width: 80% ;
+    height: 20px;
+    font-family: bold;
+    font-size: 0.75rem;
+    left: 25px;
+    margin: 0;
+  }
+
+
+  .paralax{
+      position: relative;
+      top: 255px;
+      background-image: url("assets/img/ParallaxOne_5.jpg");
+      background-size:cover;
+      height: 120px;
+      
+  }
+  h3{
+      position: relative;
+      font-family: bold;
+      color: white;
+      font-size: 0.65rem;
+      text-align: left;
+      padding-left: 8px;
+      top: 30px;
+
+  }
+  h3 span{
+      font-family: sans-serif;
+    padding-top: 10px;
+    display: block;
+    font-size: 0.07rem;
+}
+.bar {
+    position: relative;
+    background-color: #3d1c0f;
+    top: 280px;
+    padding-right: 60px;
+    width: 90%;
+    height: 110px;
+}
+h4{
+    color: rgb(255, 255, 255);
+    padding-top: 5px;
+    font-size: 0.001rem;
+    padding-left: 10px;
+    width:55%;
+    float: right;
+    
+    
+
+}
+h4 span{
+    padding-top: 10px;
+    display: block;
+
+}
+
+#docimg {
+   top: 200px;
+    width: 30%;
+    
+    padding: 0px;
+}
+.skep{
+    position: relative;
+    top: 300px;
+
+}
+
+#br{
+    text-align: left;
+    font-size: 0.3rem;
+    margin: 0 auto;
+    width: 75%;
+    padding-bottom: 5px;
+
+}
+
+#rd{
+    text-align: left;
+    font-size: 0.3rem;
+    margin: 0 auto;
+    width: 75%;
+    padding-bottom: 5px;
+
+}
+
+.gears{
+    background-image: url("assets/img/Gears_15.jpg");
+    position: relative;
+    top: 310px;
+    height: 230px;
+    background-size:cover;
+
+
+}
+
+#yell{
+    padding-top: 8px;
+    text-align: left;
+    color: yellow;
+    margin: 0 auto;
+    font-size: 0.5rem;
+    width:66%;
+
+
+}
+
+
+
+#yell span {
+    color: aliceblue;
+    font-size: 0.1rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+
+#secp{
+    color: aliceblue;
+    font-size: 0.1rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    margin: 0 auto;
+    width:66%;
+
+
+}
+
+#threep {
+    color: aliceblue;
+    font-size: 0.01rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    margin: 0 auto;
+    width:66%;
+
+}
+
+
+.findiv{
+   
+    position: relative;
+    top:320px;
+    margin: 0 auto;
+}
+#gatee{
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+.lastcontainer1{
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+    
+   
+}
+.lastcontainer2{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgba(248, 248, 248, 0.521);
+}
+.gln{
+    width: 66%;
+  
+}
+
+.fin{
+    position: relative;
+    top:55px;
+    background-image: url("assets/img/TransparentArrowBkgd.jpg");
+    z-index:1;
+   
+    height:1500px;
+    
+    
+    background-size:cover;
+    
+   
+
+}
+.findiv2{
+    position: relative;
+    width: 66%;
+    top: 264px;
+    background-color: rgba(248, 248, 248, 0.541);
+
+
+    margin: 0 auto;
+}
+
+.arrow{
+    position: relative;
+    top:248px;
+    margin: 0 auto;
+    width: 100%;
+    left: 68px;
+    opacity: 0.5;
+
+
+}
+.buttonfin{
+position: relative;
+top: 300px;
+border-style: solid;
+  border-color: red;
+
+}
+.btn-warning{
+    color: white;
+    position: relative;
+    margin: 0 auto;
+    left: 100px;
+    border-style: solid;
+  border-color: rgb(255, 255, 255);
+
+
+ 
+    margin-right:10px;
+    width: 44%;
+    height: 55px;
+}
+
+.btn span{
+    width:20%;
+    font-size: 0.06rem;
+}
+
+.grenlab{
+    color: green;
+    text-decoration-line: underline;
+    width:45%;
+    font-size: 0.5rem;
+    text-align: center;
+    margin:  auto;
+}
+}
+
+@media all and (min-width: 620px) and (max-width: 720px){
+    body{
+        background-color:rgb(191, 204, 3) ;
+        z-index: -3;
+       
+        
+    }
+
+    .innerbg{
+        position: relative;
+        background-color:white ;
+        z-index: -2;
+        margin: 0 auto;
+        width: 66%;
+  
+   } 
+   
+
+
+   .ban1{
+   background-image: url("assets/img/HeadlineImage_1.jpg");
+   position: absolute;
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 200px;
+   left:0px;
+   top: 0px;
+   
+   }
+
+   h1{
+    font-size: 1.1rem;
+    font-family: bold;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 12px;
+    text-align: center;
+    margin: auto;
+    left: 20px;
+
+
+   }
+
+   #redh1{
+       color: red;
+       text-align: center;
+       max-width: 100%;
+       font-size: 1.8rem;
+       font-family: bold;
+       background-color: rgba(255, 255, 255, 0.685);
+       border-radius: 3px;
+   }
+
+   #p2{
+       color: aliceblue;
+       font-size: 0.9rem;
+       max-width: 95%;
+      text-align:  center;
+      padding-left:12px; 
+
+      }
+
+      h2{
+          position: relative;
+          top: 220px;
+          font-size: 0.02rem;
+          max-width: 90%;
+          padding-left: 25px;
+      }
+
+      .desserts{
+          position: relative;
+          background: rgb(131,61,16);
+background: linear-gradient(90deg, rgba(131,61,16,0.4472163865546218) 0%, rgba(214,134,44,0.9710259103641457) 45%, rgba(204,174,26,0.23993347338935578) 100%);
+        top: 220px;
+        height: 150px;
+      }
+
+
+    ul{
+        position: relative;
+        top: -6px;
+        height: 150px;
+        max-width: 100%;
+        list-style-type: none;
+        padding:0;
+       
+
+    }
+      
+   
+   .tasty{
+       width: 25%;
+       margin: 15px;
+       float: left;
+
+       
+       
+       
+   }
+   .pictags{
+       
+    position: relative;
+    top: -60px;
+    left: 20px;
+    font-size: 0.8rem;
+    height: 150px;
+    max-width: 100%;
+    list-style-type: none;
+    padding:0;
+   
+
+   }
+
+   #tag{
+      font-family: bold;
+    color: rgb(65, 26, 1);
+    width: 25%;
+    margin: 15px;
+    float: left;
+   }
+
+   #p1{
+       
+       color: rgb(0, 0, 0);
+       position: relative;
+       top: 170px;
+       max-width: 80%;
+       height: 20px;
+       font-family: bold;
+       font-size: 0.75rem;
+       left: 25px;
+       text-align: left;
+       margin: 0;
+       
+       
+   }
+   #p23{
+       
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 250px;
+    text-align: left;
+    max-width: 80% ;
+    height: 20px;
+    font-family: bold;
+    font-size: 0.75rem;
+    left: 25px;
+    margin: 0;
+   }
+
+
+   p span{
+       padding-top: 15px;
+       display: block;
+   }
+   
+   #enz{
+       position: relative;
+       top: 340px;
+       color: rgb(1, 2, 2);
+       font-size: 0.1rem;
+       margin: 15px;
+       left: 25px;
+   }
+   #enz li:before {
+    content: '✓';
+  }
+  #p4{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 240px;
+    text-align: left;
+    max-width: 80% ;
+    height: 20px;
+    font-family: bold;
+    font-size: 0.75rem;
+    left: 25px;
+    margin: 0;
+  }
+
+
+  .paralax{
+      position: relative;
+      top: 255px;
+      background-image: url("assets/img/ParallaxOne_5.jpg");
+      background-size:cover;
+      height: 120px;
+      
+  }
+  h3{
+      position: relative;
+      font-family: bold;
+      color: white;
+      font-size: 0.65rem;
+      text-align: left;
+      padding-left: 8px;
+      top: 30px;
+
+  }
+  h3 span{
+      font-family: sans-serif;
+    padding-top: 10px;
+    display: block;
+    font-size: 0.07rem;
+}
+.bar {
+    position: relative;
+    background-color: #3d1c0f;
+    top: 280px;
+    padding-right: 60px;
+    width: 90%;
+    height: 110px;
+}
+h4{
+    color: rgb(255, 255, 255);
+    padding-top: 5px;
+    font-size: 0.001rem;
+    padding-left: 10px;
+    width:55%;
+    float: right;
+    
+    
+
+}
+h4 span{
+    padding-top: 10px;
+    display: block;
+
+}
+
+#docimg {
+   top: 200px;
+    width: 30%;
+    
+    padding: 0px;
+}
+.skep{
+    position: relative;
+    top: 300px;
+
+}
+
+#br{
+    text-align: left;
+    font-size: 0.3rem;
+    margin: 0 auto;
+    width: 75%;
+    padding-bottom: 5px;
+
+}
+
+#rd{
+    text-align: left;
+    font-size: 0.3rem;
+    margin: 0 auto;
+    width: 75%;
+    padding-bottom: 5px;
+
+}
+
+.gears{
+    background-image: url("assets/img/Gears_15.jpg");
+    position: relative;
+    top: 310px;
+    height: 230px;
+    background-size:cover;
+
+
+}
+
+#yell{
+    padding-top: 8px;
+    text-align: left;
+    color: yellow;
+    margin: 0 auto;
+    font-size: 0.5rem;
+    width:66%;
+
+
+}
+
+
+
+#yell span {
+    color: aliceblue;
+    font-size: 0.1rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+
+#secp{
+    color: aliceblue;
+    font-size: 0.1rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    margin: 0 auto;
+    width:66%;
+
+
+}
+
+#threep {
+    color: aliceblue;
+    font-size: 0.01rem;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    margin: 0 auto;
+    width:66%;
+
+}
+
+
+.findiv{
+   
+    position: relative;
+    top:320px;
+    margin: 0 auto;
+}
+#gatee{
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+.lastcontainer1{
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+    
+   
+}
+.lastcontainer2{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgba(248, 248, 248, 0.521);
+}
+.gln{
+    width: 66%;
+  
+}
+
+.fin{
+    position: relative;
+    top:55px;
+    background-image: url("assets/img/TransparentArrowBkgd.jpg");
+    z-index:1;
+   
+    height:1500px;
+    
+    
+    background-size:cover;
+    
+   
+
+}
+.findiv2{
+    position: relative;
+    width: 66%;
+    top: 264px;
+    background-color: rgba(248, 248, 248, 0.541);
+
+
+    margin: 0 auto;
+}
+
+.arrow{
+    position: relative;
+    top:248px;
+    margin: 0 auto;
+    width: 100%;
+    left: 68px;
+    opacity: 0.5;
+
+
+}
+.buttonfin{
+position: relative;
+top: 300px;
+border-style: solid;
+  border-color: red;
+
+}
+.btn-warning{
+    color: white;
+    position: relative;
+    margin: 0 auto;
+    left: 100px;
+    border-style: solid;
+  border-color: rgb(255, 255, 255);
+
+
+ 
+    margin-right:10px;
+    width: 44%;
+    height: 55px;
+}
+
+.btn span{
+    width:20%;
+    font-size: 0.06rem;
+}
+
+.grenlab{
+    color: green;
+    text-decoration-line: underline;
+    width:45%;
+    font-size: 0.5rem;
+    text-align: center;
+    margin:  auto;
+}
+}
+
+
+ 
+
+
+
+
+  
+
+@media all and (min-width: 720px) and (max-width: 1024px){
+
+
+    body{
+        background-color:rgb(151, 8, 8) ;
+        z-index: -3;
+       
+        
+    }
+
+    .innerbg{
+        position: relative;
+        background-color:white ;
+        z-index: -2;
+        margin: 0 auto;
+        width: 66%;
+  
+   } 
+     
+     
+        .ban1{
+        background-image: url("assets/img/HeadlineImage_1.jpg");
+        position: absolute;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 200px;
+        left:0px;
+        top: 0px;
+        
+        }
+     
+        h1{
+         font-size: 1.1rem;
+         font-family: bold;
+         color: aliceblue;
+         text-align: center;
+         padding-top: 12px;
+     
+     
+        }
+     
+        #redh1{
+            color: red;
+            text-align: center;
+            max-width: 100%;
+            font-size: 1.8rem;
+            font-family: bold;
+            background-color: rgba(255, 255, 255, 0.685);
+            border-radius: 3px;
+        }
+
+      .p1  {
+          position: relative;
+          padding-top: 10px;
+
+        }
+     
+        #p2{
+            color: aliceblue;
+            font-size: 0.9rem;
+            max-width: 95%;
+           text-align:  center;
+           padding-left:12px; 
+     
+           }
+     
+           h2{
+               position: relative;
+               top: 220px;
+               font-size: 0.02rem;
+               max-width: 90%;
+               padding-left: 25px;
+           }
+     
+           .desserts{
+               position: relative;
+               background: rgb(131,61,16);
+     background: linear-gradient(90deg, rgba(131,61,16,0.4472163865546218) 0%, rgba(214,134,44,0.9710259103641457) 45%, rgba(204,174,26,0.23993347338935578) 100%);
+             top: 220px;
+             max-height: 210px;
+             
+           }
+     
+     
+         ul{
+             position: relative;
+             left: 20px;
+             margin: 0 auto;
+             top: -10px;
+             height: 150px;
+             max-width: 100%;
+             list-style-type: none;
+             padding:0;
+            
+     
+         }
+
+         .tag{
+             font-size: 0.8rem;
+         }
+           
+        
+        .tasty{
+            width: 23%;
+            left :20px;
+            margin: 15px;
+            float: left;
+     
+            
+            
+            
+        }
+        .pictags{
+            
+         position: relative;
+         top: -30px;
+         left: 20px;
+         font-size: 0.8rem;
+         height: 150px;
+         max-width: 100%;
+         list-style-type: none;
+        padding-top: 5px;
+        
+     
+        }
+     
+        #tag{
+           font-family: bold;
+         color: rgb(65, 26, 1);
+         width: 25%;
+         margin: 15px;
+         float: left;
+        }
+     
+        #p1{
+            
+            color: rgb(0, 0, 0);
+            position: relative;
+            top: 180px;
+            max-width: 80%;
+            height: 20px;
+            font-family: bold;
+            font-size: 0.75rem;
+            left: 20px;
+            text-align: left;
+            margin: 0;
+            
+            
+        }
+        #p23{
+            
+         color: rgb(0, 0, 0);
+         position: relative;
+         top: 250px;
+         text-align: left;
+         max-width: 80% ;
+         height: 20px;
+         font-family: bold;
+         font-size: 0.75rem;
+         left: 25px;
+         margin: 0;
+        }
+     
+     
+        p span{
+            padding-top: 15px;
+            display: block;
+        }
+        
+        #enz{
+            position: relative;
+            top: 340px;
+            color: rgb(1, 2, 2);
+            font-size: 0.1rem;
+            margin: 15px;
+            left: 25px;
+        }
+        #enz li:before {
+         content: '✓';
+       }
+       #p4{
+         color: rgb(0, 0, 0);
+         position: relative;
+         top: 240px;
+         text-align: left;
+         max-width: 80% ;
+         height: 20px;
+         font-family: bold;
+         font-size: 0.75rem;
+         left: 25px;
+         margin: 0;
+       }
+     
+     
+       .paralax{
+           position: relative;
+           top: 255px;
+           background-image: url("assets/img/ParallaxOne_5.jpg");
+           background-size:cover;
+           height: 120px;
+           
+       }
+       h3{
+           position: relative;
+           font-family: bold;
+           color: white;
+           font-size: 0.65rem;
+           text-align: left;
+           padding-left: 8px;
+           top: 30px;
+     
+       }
+       h3 span{
+           font-family: sans-serif;
+         padding-top: 10px;
+         display: block;
+         font-size: 0.07rem;
+     }
+     .bar {
+         position: relative;
+         background-color: #3d1c0f;
+         top: 280px;
+         padding-right: 60px;
+         width: 90%;
+         height: 110px;
+     }
+     h4{
+         color: rgb(255, 255, 255);
+         padding-top: 5px;
+         font-size: 0.001rem;
+         padding-left: 10px;
+         width:55%;
+         float: right;
+         
+         
+     
+     }
+     h4 span{
+         padding-top: 10px;
+         display: block;
+     
+     }
+     
+     #docimg {
+        top: 200px;
+         width: 25%;
+         
+         padding: 0px;
+     }
+     .skep{
+         position: relative;
+         top: 300px;
+     
+     }
+     
+     #br{
+         text-align: left;
+         font-size: 0.3rem;
+         margin: 0 auto;
+         width: 75%;
+         padding-bottom: 5px;
+     
+     }
+     
+     #rd{
+         text-align: left;
+         font-size: 0.3rem;
+         margin: 0 auto;
+         width: 75%;
+         padding-bottom: 5px;
+     
+     }
+     
+     .gears{
+         background-image: url("assets/img/Gears_15.jpg");
+         position: relative;
+         top: 310px;
+         height: 230px;
+         background-size:cover;
+     
+     
+     }
+     
+     #yell{
+         padding-top: 8px;
+         text-align: left;
+         color: yellow;
+         margin: 0 auto;
+         font-size: 0.5rem;
+         width:66%;
+     
+     
+     }
+     
+     
+     
+     #yell span {
+         color: aliceblue;
+         font-size: 0.1rem;
+         margin: 0 auto;
+         padding-top: 5px;
+         padding-bottom: 2px;
+     }
+     
+     #secp{
+         color: aliceblue;
+         font-size: 0.1rem;
+         margin: 0 auto;
+         padding-top: 5px;
+         padding-bottom: 2px;
+         margin: 0 auto;
+         width:66%;
+     
+     
+     }
+     
+     #threep {
+         color: aliceblue;
+         font-size: 0.01rem;
+         margin: 0 auto;
+         padding-top: 5px;
+         padding-bottom: 2px;
+         margin: 0 auto;
+         width:66%;
+     
+     }
+     
+     
+     .findiv{
+        
+         position: relative;
+         top:320px;
+         margin: 0 auto;
+     }
+     #gatee{
+         position: relative;
+         margin: 0 auto;
+         width: 35%;
+         float: right;
+     
+     }
+     
+     .lastcontainer1{
+         width: 75%;
+         height: 100%;
+         margin: 0 auto;
+         
+        
+     }
+     .lastcontainer2{
+         width: 90%;
+         height: 100%;
+         margin: 0 auto;
+         background-color: rgba(248, 248, 248, 0.521);
+     }
+     .gln{
+         width: 66%;
+       
+     }
+     
+     .fin{
+         position: relative;
+         top:55px;
+         background-image: url("assets/img/TransparentArrowBkgd.jpg");
+         z-index:-1;
+         height:1500px;
+         
+         background-size:cover;
+         
+        
+     
+     }
+     .findiv2{
+         position: relative;
+         width: 66%;
+         top: 264px;
+         background-color: rgba(248, 248, 248, 0.541);
+     
+     
+         margin: 0 auto;
+     }
+     
+     .arrow{
+         position: relative;
+         top:248px;
+         margin: 0 auto;
+         width: 100%;
+         left: 68px;
+         opacity: 0.5;
+     
+     
+     }
+     .buttonfin{
+     position: relative;
+     top: 300px;
+     border-style: solid;
+       border-color: red;
+     
+     }
+     .btn-warning{
+         color: white;
+         position: relative;
+         margin: 0 auto;
+         left: 100px;
+         border-style: solid;
+       border-color: rgb(255, 255, 255);
+     
+     
+      
+         margin-right:10px;
+         width: 44%;
+         height: 55px;
+     }
+     
+     .btn span{
+         width:20%;
+         font-size: 0.06rem;
+     }
+     
+     .grenlab{
+         color: green;
+         text-decoration-line: underline;
+         width:45%;
+         font-size: 0.5rem;
+         text-align: center;
+         margin:  auto;
+     }
+     
+
+
+
+}
+   
+@media all and (min-width: 1240px) {
+
+
+    body{
+        background-color:rgb(151, 8, 8) ;
+        z-index: -3;
+       
+        
+    }
+
+    .innerbg{
+        position: relative;
+        background-color:white ;
+        z-index: -2;
+        margin: 0 auto;
+        width: 45%;
+  
+   } 
+     
+     
+        .ban1{
+        background-image: url("assets/img/HeadlineImage_1.jpg");
+        position: absolute;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 200x;
+        left:0px;
+        top: 0px;
+        
+        }
+     
+        h1{
+         font-size: 1.1rem;
+         font-family: bold;
+         color: aliceblue;
+         text-align: center;
+         padding-top: 12px;
+     
+     
+        }
+     
+        #redh1{
+            color: red;
+            text-align: center;
+            max-width: 100%;
+            font-size: 1.8rem;
+            font-family: bold;
+            background-color: rgba(255, 255, 255, 0.685);
+            border-radius: 3px;
+        }
+
+      .p1  {
+          position: relative;
+          padding-top: 10px;
+
+        }
+     
+        #p2{
+            color: aliceblue;
+            font-size: 0.9rem;
+            max-width: 95%;
+           text-align:  center;
+           padding-left:12px; 
+     
+           }
+     
+           h2{
+               position: relative;
+               top: 220px;
+               font-size: 0.02rem;
+               max-width: 90%;
+               padding-left: 25px;
+           }
+     
+           .desserts{
+               position: relative;
+               background: rgb(131,61,16);
+     background: linear-gradient(90deg, rgba(131,61,16,0.4472163865546218) 0%, rgba(214,134,44,0.9710259103641457) 45%, rgba(204,174,26,0.23993347338935578) 100%);
+             top: 220px;
+             height: 260px;
+             
+           }
+     
+     
+         ul{
+             position: relative;
+             top: -10px;
+             left: 40px;
+             height: 150px;
+             max-width: 100%;
+             list-style-type: none;
+             padding:0;
+            
+     
+         }
+
+         .tag{
+             font-size: 1.9rem;
+         }
+           
+        
+        .tasty{
+            width: 23%;
+            left :20px;
+            margin: 15px;
+            float: left;
+     
+            
+            
+            
+        }
+        .pictags{
+            
+         position: relative;
+         top: -30px;
+         left: 20px;
+         font-size: 0.8rem;
+         height: 150px;
+         max-width: 100%;
+         list-style-type: none;
+        padding-top: 5px;
+        
+     
+        }
+     
+        #tag{
+           font-family: bold;
+         color: rgb(65, 26, 1);
+         width: 25%;
+         margin: 15px;
+         float: left;
+        }
+     
+        #p1{
+            
+            color: rgb(0, 0, 0);
+            position: relative;
+            top: 180px;
+            max-width: 80%;
+            height: 20px;
+            font-family: bold;
+            font-size: 0.75rem;
+            left: 20px;
+            text-align: left;
+            margin: 0;
+            
+            
+        }
+        #p23{
+            
+         color: rgb(0, 0, 0);
+         position: relative;
+         top: 250px;
+         text-align: left;
+         max-width: 80% ;
+         height: 20px;
+         font-family: bold;
+         font-size: 0.75rem;
+         left: 25px;
+         margin: 0;
+        }
+     
+     
+        p span{
+            padding-top: 15px;
+            display: block;
+        }
+        
+        #enz{
+            position: relative;
+            top: 340px;
+            color: rgb(1, 2, 2);
+            font-size: 0.1rem;
+            margin: 15px;
+            left: 25px;
+        }
+        #enz li:before {
+         content: '✓';
+       }
+       #p4{
+         color: rgb(0, 0, 0);
+         position: relative;
+         top: 240px;
+         text-align: left;
+         max-width: 80% ;
+         height: 20px;
+         font-family: bold;
+         font-size: 0.75rem;
+         left: 25px;
+         margin: 0;
+       }
+     
+     
+       .paralax{
+           position: relative;
+           top: 255px;
+           background-image: url("assets/img/ParallaxOne_5.jpg");
+           background-size:cover;
+           height: 180px;
+           
+       }
+       h3{
+           position: relative;
+           font-family: bold;
+           color: white;
+           font-size: 1.2rem;
+           text-align: left;
+           padding-left: 8px;
+           top: 30px;
+     
+       }
+       h3 span{
+           font-family: sans-serif;
+         padding-top: 10px;
+         display: block;
+         font-size: 0.07rem;
+     }
+     .bar {
+         position: relative;
+         background-color: #3d1c0f;
+         top: 280px;
+         padding-right: 60px;
+         width: 90%;
+         height: 180px;
+     }
+     h4{
+         color: rgb(255, 255, 255);
+         padding-top: 5px;
+         font-size: 0.9rem;
+         padding-left: 10px;
+         width:70%;
+         float: right;
+         
+         
+     
+     }
+     h4 span{
+         padding-top: 10px;
+         display: block;
+     
+     }
+     
+     #docimg {
+        top: 200px;
+         width: 25%;
+         
+         padding: 0px;
+     }
+     .skep{
+         position: relative;
+         top: 300px;
+     
+     }
+     
+     #br{
+         text-align: left;
+         font-size: 0.3rem;
+         margin: 0 auto;
+         width: 75%;
+         padding-bottom: 5px;
+     
+     }
+     
+     #rd{
+         text-align: left;
+         font-size: 0.3rem;
+         margin: 0 auto;
+         width: 75%;
+         padding-bottom: 5px;
+     
+     }
+     
+     .gears{
+         background-image: url("assets/img/Gears_15.jpg");
+         position: relative;
+         top: 310px;
+         height: 230px;
+         background-size:cover;
+     
+     
+     }
+     
+     #yell{
+         padding-top: 8px;
+         text-align: left;
+         color: yellow;
+         margin: 0 auto;
+         font-size: 0.5rem;
+         width:66%;
+     
+     
+     }
+     
+     
+     
+     #yell span {
+         color: aliceblue;
+         font-size: 0.1rem;
+         margin: 0 auto;
+         padding-top: 5px;
+         padding-bottom: 2px;
+     }
+     
+     #secp{
+         color: aliceblue;
+         font-size: 0.1rem;
+         margin: 0 auto;
+         padding-top: 5px;
+         padding-bottom: 2px;
+         margin: 0 auto;
+         width:66%;
+     
+     
+     }
+     
+     #threep {
+         color: aliceblue;
+         font-size: 0.01rem;
+         margin: 0 auto;
+         padding-top: 5px;
+         padding-bottom: 2px;
+         margin: 0 auto;
+         width:66%;
+     
+     }
+     
+     
+     .findiv{
+        
+         position: relative;
+         top:320px;
+         margin: 0 auto;
+     }
+     #gatee{
+         position: relative;
+         margin: 0 auto;
+         width: 35%;
+         
+
+         float: right;
+     
+     }
+
+     .gatee2{
+        position: relative;
+        margin: 0 auto;
+        width: 20%;
+
+
+     }
+     
+     .lastcontainer1{
+         width: 75%;
+         height: 100%;
+         margin: 0 auto;
+         
+        
+     }
+     .lastcontainer2{
+         width: 90%;
+         height: 100%;
+         margin: 0 auto;
+         background-color: rgba(248, 248, 248, 0.521);
+     }
+     .gln{
+         width: 66%;
+       
+     }
+     
+     .fin{
+         position: relative;
+         top:55px;
+         background-image: url("assets/img/TransparentArrowBkgd.jpg");
+         z-index:-1;
+         height:1500px;
+         
+         background-size:cover;
+         
+        
+     
+     }
+     .findiv2{
+         position: relative;
+         width: 66%;
+         top: 264px;
+         background-color: rgba(248, 248, 248, 0.541);
+     
+     
+         margin: 0 auto;
+     }
+     
+     .arrow{
+         position: relative;
+         top:248px;
+         margin: 0 auto;
+         width: 100%;
+         left: 150px;
+         opacity: 0.5;
+     
+     
+     }
+     .buttonfin{
+     position: relative;
+     top: 300px;
+    
+     
+     }
+     .btn-warning{
+         color: white;
+         position: relative;
+         margin: 0 auto;
+         left: 250px;
+         border-style: solid;
+       border-color: rgb(255, 255, 255);
+     
+     
+      
+         margin-right:10px;
+         width: 44%;
+         height: 55px;
+     }
+     
+     .btn span{
+         width:20%;
+         font-size: 0.06rem;
+     }
+     
+     .grenlab{
+         color: green;
+         text-decoration-line: underline;
+         width:45%;
+         font-size: 0.5rem;
+         text-align: center;
+         margin:  auto;
+     }
+     
+
+
+}
