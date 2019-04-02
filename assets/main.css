@@ -424,7 +424,7 @@ border-style: solid;
 @media all and (min-width: 480px) and (max-width: 768px){
 
     body{
-        background-color:rgb(150, 48, 48) ;
+        background-color:rgb(59, 28, 2) ;
         z-index: -3;
        
         
@@ -843,7 +843,7 @@ border-style: solid;
 
 @media all and (min-width: 620px) and (max-width: 720px){
     body{
-        background-color:rgb(191, 204, 3) ;
+        background-color:rgb(59, 28, 2) ;
         z-index: -3;
        
         
@@ -1272,7 +1272,7 @@ border-style: solid;
 
 
     body{
-        background-color:rgb(151, 8, 8) ;
+        background-color:rgb(59, 28, 2) ;
         z-index: -3;
        
         
@@ -1706,7 +1706,7 @@ border-style: solid;
 
 
     body{
-        background-color:rgb(151, 8, 8) ;
+        background-color:rgb(59, 28, 2) ;
         z-index: -3;
        
         
